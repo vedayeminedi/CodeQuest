@@ -75,11 +75,17 @@ Open the local URL displayed in your terminal to access CodeQuest.
 
 ## 🔐 Demo Access
 
-CodeQuest currently uses a restricted demo authentication setup with predefined demo accounts.
+CodeQuest is currently available with predefined demo accounts. Public registration is disabled.
 
-Public registration is not available.
+| Profile | Email | Password |
+|---|---|---|
+| Alex (Beginner) | `alex@codequest.demo` | `CQ_Alex2026!` |
+| Sam (Intermediate) | `sam@codequest.demo` | `CQ_Sam2026!` |
+| Jordan (Advanced) | `jordan@codequest.demo` | `CQ_Jordan2026!` |
 
-> Demo accounts are intended for demonstration purposes only.
+These demo accounts are provided for testing and exploring the platform's features.
+
+> **Note:** These are demo credentials only. Do not use these passwords for personal accounts or sensitive information.
 
 ## 📂 Project Structure
 
